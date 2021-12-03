@@ -1,0 +1,65 @@
+nav{
+    background-color: #7D21A7;
+}
+
+body{
+    background-image: linear-gradient(to right, #6b2cf5 , #d450e6)
+}
+
+h3{
+    color:white;
+}
+p{
+    font-size: 20px;
+    color: white;
+}
+.b1 {
+    border: none;
+    background: none;
+    background: unset !important;
+    border: unset !important;
+    outline: unset !important;
+}
+
+.logoMetas{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#link {
+    text-decoration: none;
+    color: black;
+}
+
+.texto-Apresentacao{
+    color: white;
+}
+
+.n-metas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-metas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #5215fc;
+    color: white;
+}
+
+.box {
+    display: flex;
+    align-items:center;
+ }
+
+.cont-img{
+    padding-left: 10%;
+    padding-bottom: 5%;
+}
+
+.cont-text{
+    padding-right: 10%;
+}
